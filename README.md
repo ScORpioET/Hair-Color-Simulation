@@ -9,6 +9,7 @@ Hair color editor using Unet.
 <th>Hair</th>
 </tr>
 
+
 <!-- Line 1: Original Input -->
 <tr>
 <td><em>Original Input</em></td>
@@ -32,6 +33,6 @@ Hair color editor using Unet.
 
 </table>
 
-## Demo
+## Video
 
-Working
+https://www.youtube.com/watch?v=FRI3s3Q2C2Y
